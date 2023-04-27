@@ -1,0 +1,6 @@
+name: AntiInterupt
+main: nuthmc\antiinterupt\Loader
+api: 4.0.0
+version: 1.0
+author: NuthMC
+description: a plugin doesn't allow player 2 vs 1
